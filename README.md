@@ -28,12 +28,12 @@ Considerable items to use:
 * c) 3 x aaa battery holder with on/off : https://www.adafruit.com/product/727
 * d) DC motor + stepper featherwing: https://www.adafruit.com/product/2927
 * e) Conves glass lens with edge: https://www.adafruit.com/product/3853
-     OLED breakout board: https://www.adafruit.com/product/1431
-     Jumper wire: https://www.adafruit.com/product/793
-     Raspberry Pi accessory: https://www.adafruit.com/product/3356
+    <br>  OLED breakout board: https://www.adafruit.com/product/1431
+    <br>  Jumper wire: https://www.adafruit.com/product/793
+    <br>  Raspberry Pi accessory: https://www.adafruit.com/product/3356
 * f) mini metal speaker: https://www.adafruit.com/product/1890
 * g) mini remote control: https://www.adafruit.com/product/389
-     IR (Infrared) Receiver Sensor: https://www.adafruit.com/product/157
+    <br>  IR (Infrared) Receiver Sensor: https://www.adafruit.com/product/157
      
 Build Instructions
 ===========
@@ -55,3 +55,6 @@ Team
 The build team consists of:
 * @Bennrox Student: Liyi Zhu
 * @catssister  Student:  Yunting Shao
+
+Instructor
+===========
