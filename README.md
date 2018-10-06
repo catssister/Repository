@@ -12,7 +12,7 @@ Requirements and Materials
 What kind of software and hardware you needed:
 
 Software:
-* Arduino https://www.arduino.cc/en/Main/Software
+* Considerable items to use: Circuit Playground Express https://www.adafruit.com/product/3333
 
 Hardware:
 * a x1
@@ -33,7 +33,5 @@ Usage
 Team
 ===========
 The build team consists of:
-* a
-* b
-* c
-* d
+* @Bennrox Student: Liyi Zhu
+* @catssister  Student:  Yunting Shao
