@@ -25,7 +25,7 @@ Hardware:
 Considerable items to use: 
 * a) Circuit Playground Express https://www.adafruit.com/product/3333
 * b) Small Alligator Clip Test Lead: https://www.adafruit.com/product/1008
-* c) 3 x aaa battery holder with on/off : https://www.adafruit.com/product/727
+* c) 3 x aaa battery holder with on/off(change it! the suggesting from teacher) : https://www.adafruit.com/product/727
 * d) DC motor + stepper featherwing: https://www.adafruit.com/product/2927
 * e) Conves glass lens with edge: https://www.adafruit.com/product/3853
     <br>  OLED breakout board: https://www.adafruit.com/product/1431
@@ -34,7 +34,9 @@ Considerable items to use:
 * f) mini metal speaker: https://www.adafruit.com/product/1890
 * g) mini remote control: https://www.adafruit.com/product/389
     <br>  IR (Infrared) Receiver Sensor: https://www.adafruit.com/product/157
-     
+    
+* h) robot recerch link :https://www.instructables.com/id/DIY-Sphere-Robot/   
+
 Build Instructions
 ===========
 ??? no idea
