@@ -34,8 +34,10 @@ Considerable items to use:
 * f) mini metal speaker: https://www.adafruit.com/product/1890
 * g) mini remote control: https://www.adafruit.com/product/389
     <br>  IR (Infrared) Receiver Sensor: https://www.adafruit.com/product/157
-    
-* h) robot recerch link :https://www.instructables.com/id/DIY-Sphere-Robot/   
+  
+ Usable Source
+ ===========
+- robot recerch link :https://www.instructables.com/id/DIY-Sphere-Robot/   
 
 Build Instructions
 ===========
