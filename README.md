@@ -38,11 +38,9 @@ Considerable items to use:
  
  Already baught materials:
  ===========
- - 1/4oz,0.25oz,Black,Adhesive Stick on Wheel Weights,GM, Ford,Chrysler, Low Profile,Wheel Balance Weights, 60 oz/box, 1.7 kg/box, 3.75   lb/box: https://www.amazon.ca/dp/B06XDG1JJH/ref=pe_3034960_233709270_TE_item 
- <br>
- - 12 Inch White Acrylic with 5.25 Inch Neckless Opening: https://www.amazon.com/gp/product/B002OM9UM6/ref=od_aui_detailpages00?ie=UTF8&psc=1
- <br>
- - 2x 1,621 RPM HD Premium Planetary Gear Motor: https://www.servocity.com/1621-rpm-hd-premium-planetary-gear-motor
+ * 1/4oz,0.25oz,Black,Adhesive Stick on Wheel Weights,GM, Ford,Chrysler, Low Profile,Wheel Balance Weights, 60 oz/box, 1.7 kg/box, 3.75   lb/box: https://www.amazon.ca/dp/B06XDG1JJH/ref=pe_3034960_233709270_TE_item 
+ * 12 Inch White Acrylic with 5.25 Inch Neckless Opening: https://www.amazon.com/gp/product/B002OM9UM6/ref=od_aui_detailpages00?ie=UTF8&psc=1
+ * 2x 1,621 RPM HD Premium Planetary Gear Motor: https://www.servocity.com/1621-rpm-hd-premium-planetary-gear-motor
  <br>
  
  
