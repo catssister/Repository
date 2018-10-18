@@ -13,6 +13,7 @@ There should be a cap on the top which can be lift up by dc motors.
 After the cap is risen, two spooky eyes show up. (LCD creen X2).
 There should be a speaker for making sounds.
 There should be a remote control to control the action of the robot.
+<br>
 
 Requirements and Materials
 ==========
@@ -57,9 +58,9 @@ The project will following this time table!
 |-----------|---------|-------------|
 | Milestone 1  | October 20,2018 | All part arrive |
 | Milestone 2  | October 30,2018 | Initial assembly |
-| Milestone 3  | December 15,2018 | working in Conveyor |
+| Milestone 3  | December 15,2018 | Working in Conveyor |
 | Milestone 4  | December 20,2018 | Led system and waring sound system work together |
-| Milestone 5  | November 1th,1018 | remote sensing system online |
+| Milestone 5  | November 1th,1018 | Remote sensing system online |
 
 <br>
 
@@ -67,7 +68,7 @@ Build Instructions
 ===========
 ??? no idea
 
-
+<br>
 Usage
 ===========
 upload codes for controlling movement.
@@ -76,6 +77,7 @@ activate it, deactivate it.
 Direction keys.
 Sound choices.
 Cap life on off, screen display.
+<br>
 
 
 Team
@@ -83,6 +85,7 @@ Team
 The build team consists of:
 * @Bennrox Student: Liyi Zhu
 * @catssister  Student:  Yunting Shao
+<br>
 
 Instructor
 ===========
