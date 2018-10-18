@@ -49,6 +49,20 @@ Considerable items to use:
 - robot recerch link :https://www.instructables.com/id/DIY-Sphere-Robot/   
 <br>
 
+Milestones
+========
+The project will following this time table!
+
+| Milestone   | Date | Information |
+|-----------|---------|-------------|
+| Milestone 1  | Date | Information |
+| Milestone 2  | Date | Information |
+| Milestone 3  | Date | Information |
+| Milestone 4  | Date | Information |
+| Milestone 5  | Date | Information |
+
+<br>
+
 Build Instructions
 ===========
 ??? no idea
