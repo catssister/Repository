@@ -55,11 +55,11 @@ The project will following this time table!
 
 | Milestone   | Date | Information |
 |-----------|---------|-------------|
-| Milestone 1  | Date | Information |
-| Milestone 2  | Date | Information |
-| Milestone 3  | Date | Information |
-| Milestone 4  | Date | Information |
-| Milestone 5  | Date | Information |
+| Milestone 1  | October 20,2018 | All part arrive |
+| Milestone 2  | October 30,2018 | Initial assembly |
+| Milestone 3  | December 15,2018 | working in Conveyor |
+| Milestone 4  | December 20,2018 | Led system and waring sound system work together |
+| Milestone 5  | November 1th,1018 | remote sensing system online |
 
 <br>
 
