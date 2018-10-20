@@ -39,11 +39,29 @@ Considerable items to use:
  
  Already baught materials:
  ===========
- * 1/4oz,0.25oz,Black,Adhesive Stick on Wheel Weights,GM, Ford,Chrysler, Low Profile,Wheel Balance Weights, 60 oz/box, 1.7 kg/box, 3.75   lb/box: https://www.amazon.ca/dp/B06XDG1JJH/ref=pe_3034960_233709270_TE_item 
- * 12 Inch White Acrylic with 5.25 Inch Neckless Opening: https://www.amazon.com/gp/product/B002OM9UM6/ref=od_aui_detailpages00?ie=UTF8&psc=1
+ * 1x 1/4oz,0.25oz,Black,Adhesive Stick on Wheel Weights,GM, Ford,Chrysler, Low Profile,Wheel Balance Weights, 60 oz/box, 1.7 kg/box, 3.75   lb/box: https://www.amazon.ca/dp/B06XDG1JJH/ref=pe_3034960_233709270_TE_item 
+ * 1x 12 Inch White Acrylic with 5.25 Inch Neckless Opening: https://www.amazon.com/gp/product/B002OM9UM6/ref=od_aui_detailpages00?ie=UTF8&psc=1
  * 2x 1,621 RPM HD Premium Planetary Gear Motor: https://www.servocity.com/1621-rpm-hd-premium-planetary-gear-motor
- <br>
- 
+ * 2x Set Screw Shaft Couplers: https://www.servocity.com/set-screw-shaft-couplers
+ * 2x 0.250" (1/4") x 3.00" Stainless Steel D-Shafting: https://www.servocity.com/0-250-1-4-stainless-steel-d-shafting
+ * 2x 0.250" (1/4") x 2.75" (2-3/4") Stainless Steel D-Shafting: https://www.servocity.com/0-250-1-4-stainless-steel-d-shafting
+ * 2x 0.250" (1/4") x 4.00" Stainless Steel D-Shafting: https://www.servocity.com/0-250-1-4-stainless-steel-d-shafting
+ * 2x Aluminum Motor Mount E: https://www.servocity.com/aluminum-motor-mount-e
+ * 2x 4.50” Aluminum Channel: https://www.servocity.com/4-50-channel
+ * 2x 3.75” Aluminum Channel: https://www.servocity.com/3-75-channel
+ * 4x 1/4" Bore Side Tapped Pillow Block: https://www.servocity.com/250-bore-quad-pillow-block
+ * 1x 90° Dual Side Mount A (2 pack): https://www.servocity.com/90-dual-side-mount
+ * 1x Assembled Actobotics® Dual Motor Controller: https://www.servocity.com/actoboticsr-dual-motor-controller-assembled
+ * 1x Matrix 12V 3000mAh NiMH Battery: https://www.servocity.com/matrix-12v-3000mah-nimh-battery
+ * 2x D485HW Servo Direction:Clockwise (stock) Rotation:Stock Rotation: https://www.servocity.com/d485hw-servo
+ * 4x 2.31" (7 hole) Aluminum Beams (2 pack): https://www.servocity.com/2-31-aluminum-beams
+ * 1x Actobotics® Hardware Pack A: https://www.servocity.com/actobotics-hardware-pack-a
+ * 2x 0.250" (1/4") x 1.00" Stainless Steel D-Shafting: https://www.servocity.com/0-250-1-4-stainless-steel-d-shafting
+ * 2x Pattern Bracket C: https://www.servocity.com/channel-bracket-c
+ * 4x Raised Perpendicular X-Rail Mount: https://www.servocity.com/raised-perpendicular-x-rail-mount
+ * 1x DFRobot IR Remote Kit for Arduino: https://www.robotshop.com/ca/en/dfrobot-ir-remote-kit-arduino.html
+ * 1x 400 Tie Point Interlocking Solderless Breadboard: https://www.robotshop.com/ca/en/400-tie-point-solderless-interlocking-breadboard.html
+ * 1x Alligator Clip with Pigtail (10pk): https://www.robotshop.com/ca/en/alligator-clip-with-pigtail-10pk.html
  
  Usable Source
  ===========
