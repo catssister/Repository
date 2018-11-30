@@ -90,12 +90,24 @@ Build Instructions
 
 Usage
 ===========
-upload codes for controlling movement.
-upload codes for remote control.
-activate it, deactivate it.
-Direction keys.
-Sound choices.
-Cap life on off, screen display.
+
+* Step one : Open the power supply cover.
+
+* Step two : Connect the line between Arduino to sound board.
+* Step three : Connect the line between Arduino to graphic board.
+* Step four : Connect the line between Arduino to signal and information processing board.
+* Step five : Connect the line between Arduino to motion board.
+
+* Step six : Upload codes for controlling picture processing.
+* Step seven : Upload codes for controlling information processing.
+* Step eight : Upload codes for controlling sound.
+* Step nine : Upload codes for controlling motion command.
+* Step ten : Make sure all the lines are connect at the right place.
+* Step Eleven : Close the lid.
+* Step twelve : Use remote contral to test each part of function does robot have.
+
+Just play~ Don't forgot to charger the battery!
+
 <br>
 
 
