@@ -84,7 +84,7 @@ The project will following this time table!
 
 Build Instructions
 ===========
-??? no idea
+The frame was blocked inside the ball, and the power wheel motor was on the frame. The pulley and surface are connected,gear rotation drivers pulley rolling to let the ball move. On the top of the ball have two LED display. That screen connects to the image processing chip. The video card was put on the side of the frame and block out. In the robot also have a speaker, that speaker was connect to the soundboard. The soundboard was on the frame also. In the middle of the frame have a gravity arm, at the bottom of it have a small metal and a few magnetic susceptibilities of weights.
 
 <br>
 
