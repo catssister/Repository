@@ -1,9 +1,10 @@
-# Spooky Ball Robot <v.0.0.0>
+# Spooky Ball Robot <v.0.1.0>
 
 
 Repository Contents
 ==========
 * **/README.md** - The main index that you read!
+* **/Image** - This is where the image files for this readme file!
 
 Plan with mad thoughts
 ==========
