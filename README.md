@@ -1,5 +1,7 @@
 # Spooky Ball Robot <v.0.1.0>
 
+<br>
+
 
 Repository Contents
 ==========
@@ -80,6 +82,17 @@ The project will following this time table!
 | Milestone 3  | December 15,2018 | Working in Conveyor |
 | Milestone 4  | December 20,2018 | Led system and waring sound system work together |
 | Milestone 5  | November 1th,1018 | Remote sensing system online |
+
+<br>
+
+Construction steps
+===========
+
+Step one to connect the receiver board and Arduino and put a led to test the board was work or not.
+
+![alt text][pic1]
+
+[pic1]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Receiver%20board%20test.jpeg "Connect Receiver"
 
 <br>
 
