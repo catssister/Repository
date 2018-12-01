@@ -94,6 +94,13 @@ Step one to connect the receiver board and Arduino and put a led to test the boa
 
 [pic1]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Receiver%20board%20test.jpeg "Connect Receiver"
 
+Step two is to complate the motor connection with motion.(We just put on the charger to make sure both of the motor was working, when we saw it working we just take out the charger)
+
+![alt text][pic2]
+
+[pic2]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Motor.jpeg "Connect motion and two motors"
+
+
 <br>
 
 Build Instructions
