@@ -1,4 +1,4 @@
-# Spooky Ball Robot <v.0.1.0>
+# Spooky Ball Robot <v.0.3.0>
 
 <br>
 
@@ -99,6 +99,12 @@ Step two is to complate the motor connection with motion.(We just put on the cha
 ![alt text][pic2]
 
 [pic2]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Motor.jpeg "Connect motion and two motors"
+
+Step three to build up the strcture and put the motors for both side of the stracture.
+
+![alt text][pic3]
+
+[pic3]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Stracture.jpeg "Build up structure"
 
 
 <br>
