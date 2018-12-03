@@ -1,4 +1,4 @@
-# Spooky Ball Robot <v.0.3.0>
+# Spooky Ball Robot <v.0.4.0>
 
 <br>
 
@@ -106,6 +106,11 @@ Step three to build up the strcture and put the motors for both side of the stra
 
 [pic3]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Stracture.jpeg "Build up structure"
 
+That is the step four, it is put all the structure in the ball we just bought. You can see the mortor was block on the both side.
+
+![alt text][pic4]
+
+[pic4]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/In%20the%20ball.jpeg "Put structure in the ball"
 
 <br>
 
