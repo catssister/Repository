@@ -62,7 +62,9 @@ Considerable items to use:
  
  Usable Source
  ===========
-- robot recerch link :https://www.instructables.com/id/DIY-Sphere-Robot/   
+- Robot recerch link :https://www.instructables.com/id/DIY-Sphere-Robot/
+- Sound recerch link :https://gist.github.com/StevenNunez/6786124
+
 <br>
 
 Milestones
@@ -105,6 +107,14 @@ That is the step four, it is put all the structure in the ball we just bought. Y
 ![alt text][pic4]
 
 [pic4]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/In%20the%20ball.jpeg "Put structure in the ball"
+
+
+
+Step 5 was to make the specker can pick up alone. we can put any were we want.
+
+![alt text][pic5]
+
+[pic5]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Specker.jpeg " Specker "
 
 <br>
 
