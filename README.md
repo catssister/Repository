@@ -1,4 +1,4 @@
-# Spooky Ball Robot <v.0.4.0>
+# Spooky Ball Robot <v.0.4.5>
 
 <br>
 
@@ -13,7 +13,6 @@ Plan with mad thoughts
 We are thinking of a round shape robot which can move around by using the same theory as tumbler.
 - A bearing in middle for motors to control movement.
 There should be a cap on the top which can be lift up by dc motors.
-After the cap is risen, two spooky eyes show up. (LCD creen X2).
 There should be a speaker for making sounds.
 There should be a remote control to control the action of the robot.
 <br>
@@ -23,18 +22,13 @@ Requirements and Materials
 What kind of software and hardware you needed:
 
 Software:
-* Circuit Python: https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython
+* Arduino system: https://www.arduino.cc/en/Main/Software
 
 Hardware:
 Considerable items to use: 
 * a) Circuit Playground Express https://www.adafruit.com/product/3333
 * b) Small Alligator Clip Test Lead: https://www.adafruit.com/product/1008
-* c) 3 x aaa battery holder with on/off(change it! the suggesting from teacher) : https://www.adafruit.com/product/727
 * d) DC motor + stepper featherwing: https://www.adafruit.com/product/2927
-* e) Conves glass lens with edge: https://www.adafruit.com/product/3853
-    <br>  OLED breakout board: https://www.adafruit.com/product/1431
-    <br>  Jumper wire: https://www.adafruit.com/product/793
-    <br>  Raspberry Pi accessory: https://www.adafruit.com/product/3356
 * f) mini metal speaker: https://www.adafruit.com/product/1890
 * g) mini remote control: https://www.adafruit.com/product/389
     <br>  IR (Infrared) Receiver Sensor: https://www.adafruit.com/product/157
@@ -116,7 +110,7 @@ That is the step four, it is put all the structure in the ball we just bought. Y
 
 Build Instructions
 ===========
-The frame was blocked inside the ball, and the power wheel motor was on the frame. The pulley and surface are connected,gear rotation drivers pulley rolling to let the ball move. On the top of the ball have two LED display. That screen connects to the image processing chip. The video card was put on the side of the frame and block out. In the robot also have a speaker, that speaker was connect to the soundboard. The soundboard was on the frame also. In the middle of the frame have a gravity arm, at the bottom of it have a small metal and a few magnetic susceptibilities of weights.
+The frame was blocked inside the ball, and the power wheel motor was on the frame. The pulley and surface are connected,gear rotation drivers pulley rolling to let the ball move.In the robot also have a speaker, that speaker was connect to the soundboard. The soundboard was on the frame also. In the middle of the frame have a gravity arm, at the bottom of it have a small metal and a few magnetic susceptibilities of weights.
 
 <br>
 
@@ -126,17 +120,15 @@ Usage
 * Step one : Open the power supply cover.
 
 * Step two : Connect the line between Arduino to sound board.
-* Step three : Connect the line between Arduino to graphic board.
-* Step four : Connect the line between Arduino to signal and information processing board.
-* Step five : Connect the line between Arduino to motion board.
+* Step three : Connect the line between Arduino to signal and information processing board.
+* Step four : Connect the line between Arduino to motion board.
 
-* Step six : Upload codes for controlling picture processing.
-* Step seven : Upload codes for controlling information processing.
-* Step eight : Upload codes for controlling sound.
-* Step nine : Upload codes for controlling motion command.
-* Step ten : Make sure all the lines are connect at the right place.
-* Step Eleven : Close the lid.
-* Step twelve : Use remote contral to test each part of function does robot have.
+* Step five : Upload codes for controlling information processing.
+* Step six : Upload codes for controlling sound.
+* Step seven : Upload codes for controlling motion command.
+* Step eight : Make sure all the lines are connect at the right place.
+* Step nine : Close the lid.
+* Step ten : Use remote contral to test each part of function does robot have.
 
 Just play~ Don't forgot to charger the battery!
 
@@ -152,4 +144,4 @@ The build team consists of:
 
 Instructor
 ===========
-Trevor Michael Tomesh ??
+Trevor Michael Tomesh!
