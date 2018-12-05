@@ -1,4 +1,4 @@
-# Spooky Ball Robot <v.0.6.0>
+# Spooky Ball Robot <v.0.6.1>
 
 <br>
 
@@ -59,11 +59,13 @@ Considerable items to use:
  * 1x DFRobot IR Remote Kit for Arduino: https://www.robotshop.com/ca/en/dfrobot-ir-remote-kit-arduino.html
  * 1x 400 Tie Point Interlocking Solderless Breadboard: https://www.robotshop.com/ca/en/400-tie-point-solderless-interlocking-breadboard.html
  * 1x Alligator Clip with Pigtail (10pk): https://www.robotshop.com/ca/en/alligator-clip-with-pigtail-10pk.html
+ * 1x 6V - 12V NiMH / NiCd Smart Chargerhttps://www.robotshop.com/ca/en/nimh-nicd-smart-charger-1025.html
  
  Usable Source
  ===========
 - Robot recerch link :https://www.instructables.com/id/DIY-Sphere-Robot/
 - Sound recerch link :https://gist.github.com/StevenNunez/6786124
+- IR remote control sample code :https://www.dfrobot.com/wiki/index.php/IR_Remote_Control_Lesson#Code_Sample
 
 <br>
 
@@ -75,9 +77,12 @@ The project will following this time table!
 |-----------|---------|-------------|
 | Milestone 1  | October 20,2018 | All part arrive |
 | Milestone 2  | October 30,2018 | Initial assembly |
-| Milestone 3  | December 15,2018 | Working in Conveyor |
-| Milestone 4  | December 20,2018 | Led system and waring sound system work together |
-| Milestone 5  | November 1th,1018 | Remote sensing system online |
+| Milestone 3  | November 15,2018 | Working in Conveyor |
+| Milestone 4  | Novembe 20,2018 | Led system and waring sound system work together |
+| Milestone 5  | December 1th,2018 | Remote sensing system online |
+| Milestone 6  | December 2nd,2018 | First structure construct attempt(failed）Cannot sping in the ball due to structure arm wideth |
+| Milestone 7  | December 3rd,2018 | Fix the structure issue by pushing motor further inward inside the structure arms |
+| Milestone 8  | December 4th,2018 | Tried to put peizo, arduino and arduino power supply into the sphere| find running issue since cannot find a cap which fit |
 
 <br>
 
@@ -85,13 +90,15 @@ Construction steps
 ===========
 
 Step one to connect the receiver board and Arduino and put a led to test the board was work or not.
+By serial output, it will be easier to check exactely how the digital signal works.
+By noteing down all the values readed from different buttons, it is helperful for later coding.
 
 ![alt text][pic1]
 
 [pic1]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Receiver%20board%20test.jpeg "Connect Receiver"
 
 
-Step two is to complate the motor connection with motion.(We just put on the charger to make sure both of the motor was working, when we saw it working we just take out the charger)
+Step two is to complate the motor connection with motion.(We just put on the charger to make sure both of the motor was working, when we saw it working we just take out the charger). We have not prepared a charger for the battery pack which causes a huge issue. After heavy testing, it runs out of power. So it is a good idea to prepare a charger which fit to the battery pack. The charger we ended up buying is the 6V - 12V NiMH / NiCd Smart Charger which is safer and easier to use.
 
 ![alt text][pic2]
 
@@ -129,27 +136,25 @@ Step 6 was shows that we just try to put all the part on the frame construction.
 
 Build Instructions
 ===========
-The frame was blocked inside the ball, and the power wheel motor was on the frame. The pulley and surface are connected,gear rotation drivers pulley rolling to let the ball move.In the robot also have a speaker, that speaker was connect to the soundboard. The soundboard was on the frame also. In the middle of the frame have a gravity arm, at the bottom of it have a small metal and a few magnetic susceptibilities of weights.
+The frame was blocked inside the ball, and the power wheel motor was on the frame. The pulley and surface are connected,gear rotation drivers pulley rolling to let the ball move.In the robot also have a speaker, that speaker was connect directly to arduino board. In the middle of the frame have a gravity arm, at the bottom of it have the battery pack which is used as a weight. It powers the motors to lift itself.
 
 <br>
 
 Usage
 ===========
 
-* Step one : Open the power supply cover.
-
-* Step two : Connect the line between Arduino to sound board.
-* Step three : Connect the line between Arduino to signal and information processing board.
-* Step four : Connect the line between Arduino to motion board.
-
-* Step five : Upload codes for controlling information processing.
-* Step six : Upload codes for controlling sound.
+* Step one : Open the power supply cover. (still in imagination since we are unable find a cover fit as a cap)
+* Step two : Connect the line between Arduino to the power supply.
+* Step three : Connect the line between Arduino to dual motor control board.
+* Step four : Connect the line between Arduino to motor board.
+* Step five : Connect the power supply to the dual motor board.
+* Step six : Upload codes for controlling sound, remote, led(unable to put on due to lack of working space) and motor.
 * Step seven : Upload codes for controlling motion command.
 * Step eight : Make sure all the lines are connect at the right place.
-* Step nine : Close the lid.
+* Step nine : Close the lid. (still in imagination since we are unable find a cover fit as a cap)
 * Step ten : Use remote contral to test each part of function does robot have.
 
-Just play~ Don't forgot to charger the battery!
+Just play~ Don't forgot to charger the battery! Pretend it as star war sphere bot XD
 
 <br>
 
