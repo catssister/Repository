@@ -1,4 +1,4 @@
-# Spooky Ball Robot <v.0.4.5>
+# Spooky Ball Robot <v.0.6.0>
 
 <br>
 
@@ -90,17 +90,20 @@ Step one to connect the receiver board and Arduino and put a led to test the boa
 
 [pic1]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Receiver%20board%20test.jpeg "Connect Receiver"
 
+
 Step two is to complate the motor connection with motion.(We just put on the charger to make sure both of the motor was working, when we saw it working we just take out the charger)
 
 ![alt text][pic2]
 
 [pic2]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Motor.jpeg "Connect motion and two motors"
 
+
 Step three to build up the strcture and put the motors for both side of the stracture.
 
 ![alt text][pic3]
 
 [pic3]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Stracture.jpeg "Build up structure"
+
 
 That is the step four, it is put all the structure in the ball we just bought. You can see the mortor was block on the both side.
 
@@ -109,12 +112,18 @@ That is the step four, it is put all the structure in the ball we just bought. Y
 [pic4]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/In%20the%20ball.jpeg "Put structure in the ball"
 
 
-
 Step 5 was to make the specker can pick up alone. we can put any were we want.
 
 ![alt text][pic5]
 
 [pic5]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Specker.jpeg " Specker "
+
+
+Step 6 was shows that we just try to put all the part on the frame construction.It look like we make it! :)
+
+![alt text][pic6]
+
+[pic6]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Put%20all%20the%20part%20together.jpeg " Together "
 
 <br>
 
