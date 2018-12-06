@@ -1,4 +1,4 @@
-# Spooky Ball Robot <v.0.6.1>
+# Spooky Ball Robot <v.0.6.5>
 
 <br>
 
@@ -7,6 +7,7 @@ Repository Contents
 ==========
 * **/README.md** - The main index that you read!
 * **/Image** - This is where the image files for this readme file!
+* **/Code** - This is the code for our project!
 
 Plan with mad thoughts
 ==========
