@@ -1,4 +1,4 @@
-# Spooky Ball Robot <v.0.7.0>
+# Spooky Ball Robot <v.0.8.0>
 
    The project we just to created for this term is a little and quite a spotty ball robot. It has been done was means wit have something called popular and some intelligent interaction technology. Spooky ball robot is a great way to make someone was not want to go, or he needs some activity to prove their body. This kind of robot has a very Compact structure, it uses the led screen to show the information, and he has some transport unit to let it move around. It also has a signals and system to catch the signal.
    
