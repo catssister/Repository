@@ -5,7 +5,7 @@
    
    The main idea for the robot is to use a fell motor to touch the wall and make the ball to move. Also in the ball, we have the Graphics sensor control system to receive the signal to make sure when the robot was running it does not dump over. All the message will send to the Arduino chip when something wrong he Arduino will send a signal to a piezo speaker to produce a noise. Just like a  smoke alarm in your kitchen, it tells the user you may hit against some were.
 
-![alt text][pic?]
+![alt text][pic1]
 
 [pic1]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/? "Shape"
 
@@ -104,44 +104,44 @@ Step one to connect the receiver board and Arduino and put a led to test the boa
 By serial output, it will be easier to check exactely how the digital signal works.
 By noteing down all the values readed from different buttons, it is helperful for later coding.
 
-![alt text][pic1]
+![alt text][pic2]
 
-[pic1]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Receiver%20board%20test.jpeg "Connect Receiver"
+[pic2]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Receiver%20board%20test.jpeg "Connect Receiver"
 
 
 Step two is to complate the motor connection with motion.(We just put on the charger to make sure both of the motor was working, when we saw it working we just take out the charger). We have not prepared a charger for the battery pack which causes a huge issue. After heavy testing, it runs out of power. So it is a good idea to prepare a charger which fit to the battery pack. The charger we ended up buying is the 6V - 12V NiMH / NiCd Smart Charger which is safer and easier to use.
 
-![alt text][pic2]
+![alt text][pic3]
 
-[pic2]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Motor.jpeg "Connect motion and two motors"
+[pic3]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Motor.jpeg "Connect motion and two motors"
 
 
 Step three to build up the strcture and put the motors for both side of the stracture.
 
-![alt text][pic3]
+![alt text][pic4]
 
-[pic3]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Stracture.jpeg "Build up structure"
+[pic4]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Stracture.jpeg "Build up structure"
 
 
 That is the step four, it is put all the structure in the ball we just bought. You can see the mortor was block on the both side.
 
-![alt text][pic4]
+![alt text][pic5]
 
-[pic4]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/In%20the%20ball.jpeg "Put structure in the ball"
+[pic5]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/In%20the%20ball.jpeg "Put structure in the ball"
 
 
 Step 5 was to make the specker can pick up alone. we can put any were we want.
 
-![alt text][pic5]
+![alt text][pic6]
 
-[pic5]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Specker.jpeg " Specker "
+[pic6]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Specker.jpeg " Specker "
 
 
 Step 6 was shows that we just try to put all the part on the frame construction.It look like we make it! :)
 
-![alt text][pic6]
+![alt text][pic7]
 
-[pic6]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Put%20all%20the%20part%20together.jpeg " Together "
+[pic7]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Put%20all%20the%20part%20together.jpeg " Together "
 
 <br>
 
