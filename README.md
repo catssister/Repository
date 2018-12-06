@@ -7,7 +7,7 @@
 
 ![alt text][pic1]
 
-[pic1]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/? "Shape"
+[pic1]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/Readme.jpeg "Shape"
 
 
 <br>
