@@ -1,4 +1,4 @@
-# Spooky Ball Robot <v.0.8.0>
+# Spooky Ball Robot <v.0.9.0>
 
    The project we just to created for this term is a little and quite a spotty ball robot. It has been done was means wit have something called popular and some intelligent interaction technology. Spooky ball robot is a great way to make someone was not want to go, or he needs some activity to prove their body. This kind of robot has a very Compact structure, it uses the led screen to show the information, and he has some transport unit to let it move around. It also has a signals and system to catch the signal.
    
@@ -148,6 +148,10 @@ Step 6 was shows that we just try to put all the part on the frame construction.
 Build Instructions
 ===========
 The frame was blocked inside the ball, and the power wheel motor was on the frame. The pulley and surface are connected,gear rotation drivers pulley rolling to let the ball move.In the robot also have a speaker, that speaker was connect directly to arduino board. In the middle of the frame have a gravity arm, at the bottom of it have the battery pack which is used as a weight. It powers the motors to lift itself.
+
+![alt text][pic8]
+
+[pic8]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/2018-12-09%2017.51.12.png "Circuit"
 
 <br>
 
