@@ -36,18 +36,11 @@ Software:
 * Arduino system: https://www.arduino.cc/en/Main/Software
 
 Hardware:
-Considerable items to use: 
-* a) Circuit Playground Express https://www.adafruit.com/product/3333
-* b) Small Alligator Clip Test Lead: https://www.adafruit.com/product/1008
-* d) DC motor + stepper featherwing: https://www.adafruit.com/product/2927
-* f) mini metal speaker: https://www.adafruit.com/product/1890
-* g) mini remote control: https://www.adafruit.com/product/389
-    <br>  IR (Infrared) Receiver Sensor: https://www.adafruit.com/product/157
+
   <br>
  
  Already baught materials:
  ===========
- * 1x 1/4oz,0.25oz,Black,Adhesive Stick on Wheel Weights,GM, Ford,Chrysler, Low Profile,Wheel Balance Weights, 60 oz/box, 1.7 kg/box, 3.75   lb/box: https://www.amazon.ca/dp/B06XDG1JJH/ref=pe_3034960_233709270_TE_item 
  * 1x 12 Inch White Acrylic with 5.25 Inch Neckless Opening: https://www.amazon.com/gp/product/B002OM9UM6/ref=od_aui_detailpages00?ie=UTF8&psc=1
  * 2x 1,621 RPM HD Premium Planetary Gear Motor: https://www.servocity.com/1621-rpm-hd-premium-planetary-gear-motor
  * 2x Set Screw Shaft Couplers: https://www.servocity.com/set-screw-shaft-couplers
@@ -61,7 +54,6 @@ Considerable items to use:
  * 1x 90° Dual Side Mount A (2 pack): https://www.servocity.com/90-dual-side-mount
  * 1x Assembled Actobotics® Dual Motor Controller: https://www.servocity.com/actoboticsr-dual-motor-controller-assembled
  * 1x Matrix 12V 3000mAh NiMH Battery: https://www.servocity.com/matrix-12v-3000mah-nimh-battery
- * 2x D485HW Servo Direction:Clockwise (stock) Rotation:Stock Rotation: https://www.servocity.com/d485hw-servo
  * 4x 2.31" (7 hole) Aluminum Beams (2 pack): https://www.servocity.com/2-31-aluminum-beams
  * 1x Actobotics® Hardware Pack A: https://www.servocity.com/actobotics-hardware-pack-a
  * 2x 0.250" (1/4") x 1.00" Stainless Steel D-Shafting: https://www.servocity.com/0-250-1-4-stainless-steel-d-shafting
