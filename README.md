@@ -1,4 +1,4 @@
-# Spooky Ball Robot <v.0.9.0>
+# Spooky Ball Robot <v.0.9.5>
 
    The project we just to created for this term is a little and quite a spotty ball robot. It has been done was means wit have something called popular and some intelligent interaction technology. Spooky ball robot is a great way to make someone was not want to go, or he needs some activity to prove their body. This kind of robot has a very Compact structure, it uses the led screen to show the information, and he has some transport unit to let it move around. It also has a signals and system to catch the signal.
    
@@ -18,6 +18,9 @@ Repository Contents
 * **/README.md** - The main index that you read!
 * **/Image** - This is where the image files for this readme file!
 * **/Code** - This is the code for our project!
+* **/Circuit diagram** - you can get some information about circuit for this project
+
+<br>
 
 Plan with mad thoughts
 ==========
@@ -36,33 +39,32 @@ Software:
 * Arduino system: https://www.arduino.cc/en/Main/Software
 
 Hardware:
-
-  <br>
+* 1x ARDUINO UNO RE V3:https://store.arduino.cc/usa/arduino-uno-rev3
+* 2x 1,621 RPM HD Premium Planetary Gear Motor: https://www.servocity.com/1621-rpm-hd-premium-planetary-gear-motor
+* 1x DFRobot IR Remote Kit for Arduino: https://www.robotshop.com/ca/en/dfrobot-ir-remote-kit-arduino.html
+* 1x Assembled Actobotics® Dual Motor Controller: https://www.servocity.com/actoboticsr-dual-motor-controller-assembled
+* 1x Matrix 12V 3000mAh NiMH Battery: https://www.servocity.com/matrix-12v-3000mah-nimh-battery
+* 1x 6V - 12V NiMH / NiCd Smart Charger:https://www.robotshop.com/ca/en/nimh-nicd-smart-charger-1025.html
  
- Already baught materials:
- ===========
+Structures:
  * 1x 12 Inch White Acrylic with 5.25 Inch Neckless Opening: https://www.amazon.com/gp/product/B002OM9UM6/ref=od_aui_detailpages00?ie=UTF8&psc=1
- * 2x 1,621 RPM HD Premium Planetary Gear Motor: https://www.servocity.com/1621-rpm-hd-premium-planetary-gear-motor
  * 2x Set Screw Shaft Couplers: https://www.servocity.com/set-screw-shaft-couplers
  * 2x 0.250" (1/4") x 3.00" Stainless Steel D-Shafting: https://www.servocity.com/0-250-1-4-stainless-steel-d-shafting
- * 2x 0.250" (1/4") x 2.75" (2-3/4") Stainless Steel D-Shafting: https://www.servocity.com/0-250-1-4-stainless-steel-d-shafting
+ * 2x 0.250" (1/4") x 2.75" (2-3/4") Stainless Steel D-Shafting: https://www.servocity.com/0-250-1-4-stainless-steel-d-
  * 2x 0.250" (1/4") x 4.00" Stainless Steel D-Shafting: https://www.servocity.com/0-250-1-4-stainless-steel-d-shafting
  * 2x Aluminum Motor Mount E: https://www.servocity.com/aluminum-motor-mount-e
  * 2x 4.50” Aluminum Channel: https://www.servocity.com/4-50-channel
  * 2x 3.75” Aluminum Channel: https://www.servocity.com/3-75-channel
  * 4x 1/4" Bore Side Tapped Pillow Block: https://www.servocity.com/250-bore-quad-pillow-block
  * 1x 90° Dual Side Mount A (2 pack): https://www.servocity.com/90-dual-side-mount
- * 1x Assembled Actobotics® Dual Motor Controller: https://www.servocity.com/actoboticsr-dual-motor-controller-assembled
- * 1x Matrix 12V 3000mAh NiMH Battery: https://www.servocity.com/matrix-12v-3000mah-nimh-battery
  * 4x 2.31" (7 hole) Aluminum Beams (2 pack): https://www.servocity.com/2-31-aluminum-beams
  * 1x Actobotics® Hardware Pack A: https://www.servocity.com/actobotics-hardware-pack-a
  * 2x 0.250" (1/4") x 1.00" Stainless Steel D-Shafting: https://www.servocity.com/0-250-1-4-stainless-steel-d-shafting
  * 2x Pattern Bracket C: https://www.servocity.com/channel-bracket-c
  * 4x Raised Perpendicular X-Rail Mount: https://www.servocity.com/raised-perpendicular-x-rail-mount
- * 1x DFRobot IR Remote Kit for Arduino: https://www.robotshop.com/ca/en/dfrobot-ir-remote-kit-arduino.html
- * 1x 400 Tie Point Interlocking Solderless Breadboard: https://www.robotshop.com/ca/en/400-tie-point-solderless-interlocking-breadboard.html
  * 1x Alligator Clip with Pigtail (10pk): https://www.robotshop.com/ca/en/alligator-clip-with-pigtail-10pk.html
- * 1x 6V - 12V NiMH / NiCd Smart Chargerhttps://www.robotshop.com/ca/en/nimh-nicd-smart-charger-1025.html
+ 
+ <br>
  
  Usable Source
  ===========
@@ -143,7 +145,7 @@ The frame was blocked inside the ball, and the power wheel motor was on the fram
 
 ![alt text][pic8]
 
-[pic8]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/2018-12-09%2017.51.12.png "Circuit"
+[pic8]: https://github.com/catssister/Spooky-Ball-Robot/blob/master/Image/New.png "Circuit"
 
 <br>
 
@@ -171,6 +173,7 @@ Team
 The build team consists of:
 * @Bennrox Student: Liyi Zhu
 * @catssister  Student:  Yunting Shao
+
 <br>
 
 Instructor
