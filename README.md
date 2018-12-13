@@ -1,9 +1,9 @@
 # Spooky Ball Robot <v.1.0.0>
 
-   The project we just to created for this term is a little and quite a spotty ball robot. It has been done was means wit have something called popular and some intelligent interaction technology. Spooky ball robot is a great way to make someone was not want to go, or he needs some activity to prove their body. This kind of robot has a very Compact structure, it uses the led screen to show the information, and he has some transport unit to let it move around. It also has a signals and system to catch the signal.
+   The project we just to created for this term is a little and quite a spotty ball robot. It has been done was means wit have something called popular and some intelligent interaction technology. Spooky ball robot is a great way to make someone was not want to go, or he needs some activity to prove their body. This kind of robot has a very Compact structure, he has some transport unit to let it move around. It also has a signals and system to catch the signal.
    
    
-   The main idea for the robot is to use a fell motor to touch the wall and make the ball to move. Also in the ball, we have the Graphics sensor control system to receive the signal to make sure when the robot was running it does not dump over. All the message will send to the Arduino chip when something wrong he Arduino will send a signal to a piezo speaker to produce a noise. Just like a  smoke alarm in your kitchen, it tells the user you may hit against some were.
+   The main idea for the robot is to use a fell motor to touch the wall and make the ball to move. Also in the ball, we have the motor sensor control system to receive the signal to make sure when the robot was running it does not dump over. All the message will send to the Arduino chip to dispose. You can use the remoter to control the robot was to play a sound for you or go which direction you want.
 
 ![alt text][pic1]
 
